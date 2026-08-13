@@ -64,9 +64,12 @@ Check out what I build on my portfolio.
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+  <img src="./profile/stats.svg" height="160" alt="GitHub Statistics"/>
+  <img src="./profile/top-langs.svg" height="160" alt="Top Languages"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ahmed285&show_icons=true&hide_border=true&bg_color=f5f5f5&title_color=f97316&text_color=111827&icon_color=f97316" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ahmed285&layout=compact&hide_border=true&bg_color=f5f5f5&title_color=f97316&text_color=111827" height="160"/>
+<br>
 
-<sub>Designing with purpose. Engineering with intent.</sub>
+<div align="center">
+  <sub>Designing with purpose. Engineering with intent.</sub>
 </div>
