@@ -2,7 +2,7 @@
 
 # Mohamed Abdelghani
 
-### Full-Stack Developer & Systems Engineer
+### Full-Stack Developer
 
 Building reliable, scalable, and user-focused software.
 
@@ -10,7 +10,7 @@ Building reliable, scalable, and user-focused software.
   <a href="https://www.mido.page/">
     <img src="https://img.shields.io/badge/Portfolio-mido.page-f97316?style=for-the-badge&labelColor=111827" alt="Portfolio"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-3034872aa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-f97316?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Mohamed-Ahmed285">
