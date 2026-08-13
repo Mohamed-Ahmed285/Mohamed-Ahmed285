@@ -52,14 +52,15 @@ Check out what I build on my portfolio.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<h3>Leveling up right now</h3>
+### Leveling up right now</h3>
 
+<div display="flex">
 <img src="https://img.shields.io/badge/NestJS-f5f5f5?style=for-the-badge&labelColor=111827&color=fde047"/>
 <img src="https://img.shields.io/badge/Spring_Boot-f5f5f5?style=for-the-badge&labelColor=111827&color=86efac"/>
 <img src="https://img.shields.io/badge/Microservices-f5f5f5?style=for-the-badge&labelColor=111827&color=93c5fd"/>
 <img src="https://img.shields.io/badge/Cloud_%26_DevOps-f5f5f5?style=for-the-badge&labelColor=111827&color=f9a8d4"/>
 <img src="https://img.shields.io/badge/System_Design-f5f5f5?style=for-the-badge&labelColor=111827&color=f97316"/>
-
+</div>
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
