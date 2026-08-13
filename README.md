@@ -1,185 +1,73 @@
-# Mohamed
+<div align="center">
 
-### Software Developer
+# Mohamed Abdelghani
+
+### Full-Stack Developer & Systems Engineer
 
 Building reliable, scalable, and user-focused software.
 
-I’m a Computer Science student and software developer with a focus on **full-stack web development**, backend engineering, and software architecture.
-
-I enjoy turning complex requirements into practical software — from designing intuitive interfaces and RESTful APIs to modeling databases and deploying complete applications.
-
-<p align="left">
+<p>
   <a href="https://www.mido.page/">
-    <img src="https://img.shields.io/badge/Portfolio-mido.page-f97316?style=for-the-badge&labelColor=171717" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-mido.page-f97316?style=for-the-badge&labelColor=111827" alt="Portfolio"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-f97316?style=for-the-badge&labelColor=171717&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-f97316?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Mohamed-Ahmed285">
+    <img src="https://img.shields.io/badge/GitHub-Follow-f97316?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+</div>
 
 ---
 
 ## About
 
-I approach software development with an emphasis on **clean architecture, maintainability, and meaningful user experiences**.
-
-My experience covers both frontend and backend development, allowing me to work across an application's entire lifecycle — from the initial concept and interface to APIs, databases, authentication, and deployment.
-
-Currently, I’m expanding my backend engineering knowledge through **Java, Spring Boot, Microservices, Cloud, and DevOps**.
+Computer Science student and full-stack developer focused on **scalable web applications** — from Angular/React frontends to Node.js and .NET backends. Currently deepening my backend engineering with **Java, Spring Boot, Microservices, and DevOps**.
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=fde047)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=93c5fd)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=fde047)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=93c5fd)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=86efac)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square\&logo=javascript\&logoColor=fcd34d)
-![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square\&logo=typescript\&logoColor=93c5fd)
-![Java](https://img.shields.io/badge/Java-171717?style=flat-square\&logo=openjdk\&logoColor=fcd34d)
-![C++](https://img.shields.io/badge/C%2B%2B-171717?style=flat-square\&logo=cplusplus\&logoColor=93c5fd)
-![SQL](https://img.shields.io/badge/SQL-171717?style=flat-square\&logo=mysql\&logoColor=86efac)
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=f9a8d4)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=93c5fd)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=93c5fd)
 
-### Frontend
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=86efac)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=86efac)
+![.NET](https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=f9a8d4)
 
-![Angular](https://img.shields.io/badge/Angular-171717?style=flat-square\&logo=angular\&logoColor=fda4af)
-![React](https://img.shields.io/badge/React-171717?style=flat-square\&logo=react\&logoColor=93c5fd)
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat-square\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-171717?style=flat-square\&logo=tailwindcss\&logoColor=67e8f9)
-![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat-square\&logo=html5\&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat-square\&logo=css3\&logoColor=93c5fd)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square\&logo=node.js\&logoColor=86efac)
-![Express.js](https://img.shields.io/badge/Express.js-171717?style=flat-square\&logo=express\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-171717?style=flat-square\&logo=springboot\&logoColor=86efac)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=flat-square\&logo=mongodb\&logoColor=86efac)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square\&logo=postgresql\&logoColor=93c5fd)
-![MySQL](https://img.shields.io/badge/MySQL-171717?style=flat-square\&logo=mysql\&logoColor=93c5fd)
-![SQL Server](https://img.shields.io/badge/SQL_Server-171717?style=flat-square\&logo=microsoftsqlserver\&logoColor=fda4af)
-
-### Tools & Infrastructure
-
-![Git](https://img.shields.io/badge/Git-171717?style=flat-square\&logo=git\&logoColor=f97316)
-![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-171717?style=flat-square\&logo=docker\&logoColor=93c5fd)
-![Postman](https://img.shields.io/badge/Postman-171717?style=flat-square\&logo=postman\&logoColor=f97316)
-![Vercel](https://img.shields.io/badge/Vercel-171717?style=flat-square\&logo=vercel\&logoColor=white)
-
----
-
-## Selected Work
-
-### Clinic Management System
-
-A full-stack healthcare platform designed to simplify doctor discovery, appointment booking, and clinic management.
-
-The platform brings together **doctor profiles, multiple clinics, appointment scheduling, medical records, reviews, insurance plans, online payments, and waitlist management** into a single system.
-
-**Angular · Node.js · Express.js · MongoDB**
-
----
-
-### Thoth Gate
-
-A learning management system built to provide a structured environment for managing users, courses, and educational content.
-
-The project focuses on building a maintainable backend with RESTful APIs, authentication, and database-driven workflows.
-
-**Node.js · Express.js · MongoDB**
-
----
-
-### Pac-Man AI
-
-A C++ implementation of Pac-Man featuring intelligent ghost navigation through graph-based pathfinding.
-
-The project applies **BFS and A*** algorithms to solve pathfinding problems and demonstrate practical applications of data structures and algorithms.
-
-**C++ · Algorithms · Data Structures · AI**
-
----
-
-### Hospital Readmission Prediction
-
-A machine learning project focused on predicting hospital readmission from healthcare-related data.
-
-The project covers data preprocessing, feature analysis, model development, and evaluation.
-
-**Python · Machine Learning · Data Analysis**
-
----
-
-## Engineering Focus
-
-```text
-Full-Stack Development
-Backend Engineering
-REST API Design
-Database Architecture
-Software Architecture
-System Design
-Cloud & DevOps
-Artificial Intelligence
-```
+**Databases & Infra**
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=86efac)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=93c5fd)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=93c5fd)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=fde047)
 
 ---
 
 ## Currently Exploring
 
-**Java · Spring Boot · Microservices · Cloud Computing · DevOps · System Design**
-
-I’m particularly interested in understanding how individual applications evolve into **reliable, scalable, and maintainable systems**.
+`Java` · `Spring Boot` · `Microservices` · `Cloud & DevOps` · `System Design`
 
 ---
 
-## GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ahmed285&show_icons=true&hide_border=true&bg_color=f5f5f5&title_color=f97316&text_color=171717&icon_color=f97316" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ahmed285&layout=compact&hide_border=true&bg_color=f5f5f5&title_color=f97316&text_color=171717" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ahmed285&show_icons=true&hide_border=true&bg_color=f5f5f5&title_color=f97316&text_color=111827&icon_color=f97316" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ahmed285&layout=compact&hide_border=true&bg_color=f5f5f5&title_color=f97316&text_color=111827" height="160"/>
 
----
+<sub>Designing with purpose. Engineering with intent.</sub>
 
-## Let's Connect
-
-If you're interested in software engineering, collaboration, or building something meaningful, feel free to connect.
-
-<p align="left">
-  <a href="https://www.mido.page/">
-    <strong>Portfolio</strong>
-  </a>
-  &nbsp; · &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
-    <strong>LinkedIn</strong>
-  </a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Mohamed-Ahmed285">
-    <strong>GitHub</strong>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Designing with purpose. Engineering with intent.</sub>
-</p>
-
-<!--
-**Mohamed-Ahmed285/Mohamed-Ahmed285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
