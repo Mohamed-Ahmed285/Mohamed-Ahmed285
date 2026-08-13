@@ -6,9 +6,8 @@
 
 Computer Science student and software developer.
 I like building things, learning new technologies, and solving problems with code.
-
 <br>
-
+<br>
 Check out what I build on my portfolio.
 <div align="center">
   <a href="https://www.mido.page/">
