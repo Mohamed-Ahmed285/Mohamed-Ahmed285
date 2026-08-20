@@ -61,13 +61,6 @@ Check out what I build on my portfolio.
 <img src="https://img.shields.io/badge/Cloud_%26_DevOps-f5f5f5?style=for-the-badge&labelColor=111827&color=f9a8d4"/>
 <img src="https://img.shields.io/badge/System_Design-f5f5f5?style=for-the-badge&labelColor=111827&color=f97316"/>
 </div>
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-<div align="center">
-  <img src="./profile/stats.svg" height="160" alt="GitHub Statistics"/>
-  <img src="./profile/top-langs.svg" height="160" alt="Top Languages"/>
-</div>
-
 <br>
 
 <div align="center">
